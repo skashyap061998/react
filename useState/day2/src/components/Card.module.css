@@ -1,0 +1,10 @@
+.card{
+    display:flex;
+    width:500px;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.card>div>img{
+    width: 200px;
+    height: 200px;
+}
