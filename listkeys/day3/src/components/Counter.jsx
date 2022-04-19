@@ -5,7 +5,8 @@ export const Counter = () => {
     const [count2, setCount2] = React.useState(0)
 
 
-// whenever this componented is mounted and unmounted then also this thing wll work any state in this component, then this callback function
+// whenever this componented is mounted and unmounted then also this thing wll work any state in this component,
+//  then this callback function
 // when the component is render and un mounted
 // console.log(1)
 //     useEffect(()=>{
